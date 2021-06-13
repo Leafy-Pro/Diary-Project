@@ -55,8 +55,8 @@ if int(ex2_2_1[0]) > 12:
     hour = int(ex2_2_1[0]) - 12
 else:
     hour = int(ex2_2_1[0])
-minute = int(ex2_2_1[1])
-second = int(ex2_2_1[2])
+    minute = int(ex2_2_1[1])
+    second = int(ex2_2_1[2])
 
 # Deciding date, month and year
 
