@@ -1,3 +1,5 @@
+'''Created by Leafy-Pro ¯\_(ツ)_/¯'''
+
 import datetime
 
 username = input("Enter Your Name: ") # Taking name of the user
